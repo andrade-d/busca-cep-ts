@@ -2,6 +2,8 @@
 
 # Teste de Busca de CEP com Playwright
 
+[![Playwright Tests](https://github.com/andrade-d/busca-cep-ts/actions/workflows/playwright.yml/badge.svg)](https://github.com/andrade-d/busca-cep-ts/actions/workflows/playwright.yml)
+
 Este repositório contém um teste automatizado usando Playwright para verificar a funcionalidade de busca de CEP no site dos Correios.
 
 ## Pré-requisitos
