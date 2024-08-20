@@ -1,6 +1,4 @@
-Claro! Aqui está um exemplo de README para o seu código:
 
----
 
 # Teste de Busca de CEP com Playwright
 
